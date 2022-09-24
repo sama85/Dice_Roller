@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
     // declare binding object as property of main activity
     private lateinit var binding : ActivityMainBinding
 
-    
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
